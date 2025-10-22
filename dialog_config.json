@@ -1,9 +1,9 @@
 {
-  "version": 33,
+  "version": 34,
   "enabled": true,
   "show_after": 1760878080000,
   "title": "✅ ¡Listo! Prueba terminada",
-  "message": "🚀 Para seguir usando nuestro Mod:\nContáctanos por Telegram o WhatsApp",
+  "message": "🚀 Para seguir usando nuestro Mod:\n1) Contáctanos por Telegram\n2) Activa tu membresía en minutos\n\n📩",
   "wa_url": "https://wa.me/569XXXXXXXX",
   "tg_url": "https://t.me/asistenteindrive",
   "style": {
